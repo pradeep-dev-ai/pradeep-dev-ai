@@ -13,16 +13,21 @@
 
 ### 🌐 Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/kurmalapradeepgupta/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+<a href="https://www.linkedin.com/in/kurmalapradeepgupta/" target="_blank">
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
 </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Engineer;Machine+Learning+Developer;GenAI+Builder;Always+Learning+🚀" />
 </p>
 
 ---
 
-### ⚡ GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pradeep-dev-ai&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeep-dev-ai&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-dev-ai&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -34,21 +39,18 @@
 
 ---
 
-### 🔥 Contribution Streak
+### 🐍 Contribution Snake
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=pradeep-dev-ai&theme=radical" />
+  <img src="https://raw.githubusercontent.com/pradeep-dev-ai/pradeep-dev-ai/output/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
-### 🧠 Skills
-- Python 🐍
-- Machine Learning 🤖
-- Deep Learning 🧠
-- NLP 📚
-- Streamlit ⚡
-- LangChain 🔗
-
+### 🧠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-00C7B7?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)
 ---
 
 ### ✨ Quote
