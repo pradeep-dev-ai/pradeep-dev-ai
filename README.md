@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Pradeep</h1>
 <h3 align="center">AI & ML Enthusiast | Data Science | GenAI Developer</h3>
 
